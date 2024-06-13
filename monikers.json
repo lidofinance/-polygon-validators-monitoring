@@ -2,7 +2,7 @@
   "8": "Torus Validator",
   "9": "Infosys",
   "10": "Hexagon City",
-  "12": "AutoMATIC Generator",
+  "12": "Worldpay",
   "16": "BCW Technologies",
   "18": "Luganodes",
   "19": "Pentagon Games",
@@ -11,7 +11,6 @@
   "23": "Deepheat",
   "26": "Newroad Network",
   "27": "Matic Fans",
-  "28": "WolfEdge Capital",
   "30": "Staking4all - 0% fee",
   "31": "AnkrValidator",
   "32": "StakePool",
@@ -38,7 +37,7 @@
   "75": "kytzu",
   "76": "Making.cash",
   "77": "Everstake 0% fee",
-  "79": "Matrix Stake 0% FEE",
+  "79": "Matrix Stake",
   "82": "Fierydev-MCLB",
   "85": "Coinstash",
   "86": "DeFiMatic",
@@ -100,5 +99,6 @@
   "166": "Finoa Consensus Services",
   "167": "RYABINA ",
   "170": "SenseiNode",
-  "171": "A41"
+  "171": "A41",
+  "172": "Node172"
 }
