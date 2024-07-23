@@ -1,5 +1,5 @@
 {
-  "8": "Torus Validator",
+  "8": "Web3Auth Validator",
   "9": "Infosys",
   "10": "Hexagon City",
   "12": "Worldpay",
@@ -10,7 +10,7 @@
   "22": "Wetez",
   "23": "Deepheat",
   "26": "Newroad Network",
-  "27": "Matic Fans",
+  "27": "Matic Friends",
   "30": "Staking4all - 0% fee",
   "31": "AnkrValidator",
   "32": "StakePool",
@@ -39,7 +39,7 @@
   "77": "Everstake 0% fee",
   "79": "Matrix Stake",
   "82": "Fierydev-MCLB",
-  "85": "Coinstash",
+  "85": "Pier Two + Coinstash",
   "86": "DeFiMatic",
   "87": "Figment",
   "88": "Staked",
@@ -87,7 +87,7 @@
   "150": "Deutsche Telekom",
   "151": "CheckBit 0% fee",
   "153": "Stake Capital",
-  "155": "StakeCraft",
+  "155": "StakeCraft 0% Fee",
   "157": "Google Cloud",
   "159": "Mantra Chain",
   "160": "NEOPIN",
@@ -99,6 +99,5 @@
   "166": "Finoa Consensus Services",
   "167": "RYABINA ",
   "170": "SenseiNode",
-  "171": "A41",
-  "172": "Node172"
+  "174": "TruFin"
 }
